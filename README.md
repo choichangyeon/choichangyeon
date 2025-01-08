@@ -6,14 +6,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choichangyeon&theme=default" alt="Repos Per Language" height="150">
 </div>
 
----
 
 ## 🚀 **About Me**
 안녕하세요!  
 저는 항상 사용자와 소통하며 함께 성장하고자 노력하는 개발자 **최창연**입니다.  
 다양한 언어와 프레임워크를 활용하여 문제를 해결하고, 더 나은 경험을 제공하기 위해 끊임없이 도전합니다.  
 
----
 
 ## 🛠 **Skills**
 
@@ -37,11 +35,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
 ## 📫 **Contact Me**
 - **Email**: [changyon99@naver.com](mailto:changyon99@naver.com)  
 - **GitHub**: [choichangyeon](https://github.com/choichangyeon)
 
----
 
