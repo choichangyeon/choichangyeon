@@ -1,4 +1,4 @@
-# 사용자와 공생하는 개발자, '최창연' 입니다! 👨‍💻✨
+# 스펀지같은 개발자, '최창연' 입니다! 👨‍💻✨
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=choichangyeon&theme=default" alt="Stats" height="150">
